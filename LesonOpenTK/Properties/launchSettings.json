@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LesonOpenTK": {
+      "commandName": "Project",
+      "workingDirectory": "F:\\LesonOpenTK\\LesonOpenTK"
+    }
+  }
+}
